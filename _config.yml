@@ -1,15 +1,14 @@
 # Site settings
-title: Coding to support my music habit
+author: Christiana Vandermale
+title: Transition from Music to Coding 
 header-img: img/home-bg.png
-email: christianavdm@gmail.com
-copyright_name: christianavdm
+email: ryemrayne@gmail.com
+copyright_name: Christiana Vandermale
 description: > # this means to ignore newlines until "baseurl:"
   Learning a new creative field of web development
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  christianavdm
-learn_profile: christianavdm
-email_username: christianavdm@gmail.com
 
 # Build settings
 markdown: kramdown
